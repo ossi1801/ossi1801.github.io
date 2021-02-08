@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ossi1801.github.io/static/css/main.1d9bd223.chunk.css",
+    "main.css": "/ossi1801.github.io/static/css/main.b087d536.chunk.css",
     "main.js": "/ossi1801.github.io/static/js/main.04493bc6.chunk.js",
     "main.js.map": "/ossi1801.github.io/static/js/main.04493bc6.chunk.js.map",
     "runtime-main.js": "/ossi1801.github.io/static/js/runtime-main.33c6166e.js",
@@ -12,7 +12,7 @@
     "static/js/3.4d28a782.chunk.js.map": "/ossi1801.github.io/static/js/3.4d28a782.chunk.js.map",
     "index.html": "/ossi1801.github.io/index.html",
     "static/css/2.150d169a.chunk.css.map": "/ossi1801.github.io/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1d9bd223.chunk.css.map": "/ossi1801.github.io/static/css/main.1d9bd223.chunk.css.map",
+    "static/css/main.b087d536.chunk.css.map": "/ossi1801.github.io/static/css/main.b087d536.chunk.css.map",
     "static/js/2.f6e760aa.chunk.js.LICENSE.txt": "/ossi1801.github.io/static/js/2.f6e760aa.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ossi1801.github.io/static/media/background.bc9fde13.png",
     "static/media/discord.bfc50204.png": "/ossi1801.github.io/static/media/discord.bfc50204.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.33c6166e.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.f6e760aa.chunk.js",
-    "static/css/main.1d9bd223.chunk.css",
+    "static/css/main.b087d536.chunk.css",
     "static/js/main.04493bc6.chunk.js"
   ]
 }
