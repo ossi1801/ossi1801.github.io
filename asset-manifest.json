@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/ossi1801.github.io/static/css/main.5a37f7e0.chunk.css",
-    "main.js": "/ossi1801.github.io/static/js/main.8595e30c.chunk.js",
-    "main.js.map": "/ossi1801.github.io/static/js/main.8595e30c.chunk.js.map",
-    "runtime-main.js": "/ossi1801.github.io/static/js/runtime-main.9d47c030.js",
-    "runtime-main.js.map": "/ossi1801.github.io/static/js/runtime-main.9d47c030.js.map",
+    "main.css": "/ossi1801.github.io/static/css/main.95e42e29.chunk.css",
+    "main.js": "/ossi1801.github.io/static/js/main.04493bc6.chunk.js",
+    "main.js.map": "/ossi1801.github.io/static/js/main.04493bc6.chunk.js.map",
+    "runtime-main.js": "/ossi1801.github.io/static/js/runtime-main.33c6166e.js",
+    "runtime-main.js.map": "/ossi1801.github.io/static/js/runtime-main.33c6166e.js.map",
     "static/css/2.150d169a.chunk.css": "/ossi1801.github.io/static/css/2.150d169a.chunk.css",
-    "static/js/2.675cf5b0.chunk.js": "/ossi1801.github.io/static/js/2.675cf5b0.chunk.js",
-    "static/js/2.675cf5b0.chunk.js.map": "/ossi1801.github.io/static/js/2.675cf5b0.chunk.js.map",
-    "static/js/3.019d27d1.chunk.js": "/ossi1801.github.io/static/js/3.019d27d1.chunk.js",
-    "static/js/3.019d27d1.chunk.js.map": "/ossi1801.github.io/static/js/3.019d27d1.chunk.js.map",
+    "static/js/2.f6e760aa.chunk.js": "/ossi1801.github.io/static/js/2.f6e760aa.chunk.js",
+    "static/js/2.f6e760aa.chunk.js.map": "/ossi1801.github.io/static/js/2.f6e760aa.chunk.js.map",
+    "static/js/3.4d28a782.chunk.js": "/ossi1801.github.io/static/js/3.4d28a782.chunk.js",
+    "static/js/3.4d28a782.chunk.js.map": "/ossi1801.github.io/static/js/3.4d28a782.chunk.js.map",
     "index.html": "/ossi1801.github.io/index.html",
     "static/css/2.150d169a.chunk.css.map": "/ossi1801.github.io/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.5a37f7e0.chunk.css.map": "/ossi1801.github.io/static/css/main.5a37f7e0.chunk.css.map",
-    "static/js/2.675cf5b0.chunk.js.LICENSE.txt": "/ossi1801.github.io/static/js/2.675cf5b0.chunk.js.LICENSE.txt",
+    "static/css/main.95e42e29.chunk.css.map": "/ossi1801.github.io/static/css/main.95e42e29.chunk.css.map",
+    "static/js/2.f6e760aa.chunk.js.LICENSE.txt": "/ossi1801.github.io/static/js/2.f6e760aa.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ossi1801.github.io/static/media/background.bc9fde13.png",
+    "static/media/discord.bfc50204.png": "/ossi1801.github.io/static/media/discord.bfc50204.png",
+    "static/media/game.5897e6ae.png": "/ossi1801.github.io/static/media/game.5897e6ae.png",
     "static/media/logo.b845f864.svg": "/ossi1801.github.io/static/media/logo.b845f864.svg",
     "static/media/omakuva.f45b853b.png": "/ossi1801.github.io/static/media/omakuva.f45b853b.png",
-    "static/media/thumb1.1898f326.jpg": "/ossi1801.github.io/static/media/thumb1.1898f326.jpg"
+    "static/media/thumb1.1898f326.jpg": "/ossi1801.github.io/static/media/thumb1.1898f326.jpg",
+    "static/media/virtual.1a074e7e.png": "/ossi1801.github.io/static/media/virtual.1a074e7e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d47c030.js",
+    "static/js/runtime-main.33c6166e.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.675cf5b0.chunk.js",
-    "static/css/main.5a37f7e0.chunk.css",
-    "static/js/main.8595e30c.chunk.js"
+    "static/js/2.f6e760aa.chunk.js",
+    "static/css/main.95e42e29.chunk.css",
+    "static/js/main.04493bc6.chunk.js"
   ]
 }
