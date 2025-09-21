@@ -1,5 +1,7 @@
 :root{
   --bgr-color: rgb(0,0,0, 0.5);
+  --txt-color: rgb(1, 95, 1);
+  --txt-color-bright: rgb(1, 184, 1);
 }
 html{
     background-color: var(--bgr-color);
@@ -27,19 +29,38 @@ body{
     border-radius: 3px;
     width: 100%;
 }
+.arrow{
+  height: 35px;
+  width: 35px;
+  color: var(--txt-color);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../media/arrow.svg");
+  display:none;
+  position: relative;
+  top:-1px;
+}
 
 a {
-    color: rgb(1, 95, 1);
+    color: var(--txt-color);
     text-decoration:none;
-    margin-top: 6%;
+    margin-top: 2%;
     font-size: 1rem;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
   }
 /* visited link */
+
 a:visited {
     color: green;
   }
   a:hover {
-    color: rgb(1, 184, 1);
+    color: var(--txt-color-bright);
+  }
+  a:hover .arrow{
+    display:block;
+    fill: var(--txt-color-bright); /*#01b901;*/
   }
   /* code, pre, tt, kbd, samp {
     font-family: "Noto Sans Mono", monospace;
